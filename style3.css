@@ -1,0 +1,19 @@
+body{
+    font-family:Arial,sans-serif;
+}
+
+#title{
+    color:blue;
+}
+
+.intro{
+    color:green;
+}
+
+button,input{
+    padding: 10px;
+}
+
+input[type="email"]{
+    border: 2px solid purple;
+}
