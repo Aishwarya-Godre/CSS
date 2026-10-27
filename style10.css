@@ -1,0 +1,22 @@
+h1{
+    font-family: Georgia,serif;
+    font-size: 32px;
+    font-weight:700;
+    color:purple;
+
+
+}
+
+
+h2{
+    font-size:24px;
+    font-weight:600;
+}
+
+p{
+     font-size: 16px;
+     font-weight:400;
+}
+.hightlight{
+    font-style: italic;
+}
